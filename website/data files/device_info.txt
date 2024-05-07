@@ -1,1 +1,9 @@
+Device Data from ToSphere
+DEVICE NAME: 5da30a72989b
+IP ADDRESS: 172.31.196.48
+SYSTEM: linux
+ARCHITECTURE: x86_64
+RELEASE: 6.5.0-1018-gcp
+VERSION:#18~22.04.1-Ubuntu SMP Fri Apr  5 04:57:38 UTC 2024
 
+from https://tosphere.onrender.com/
